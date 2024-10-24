@@ -27,15 +27,15 @@ const AboutSection = () => {
           {/* Teks deskripsi */}
           <div className='md:w-2/3 mt-8 md:mt-0'>
             <h1 className='text-2xl font-bold mb-6'>Get to know me!</h1>
-            <p className='text-lg leading-7 mb-4 text-neutral-600'>
-              Hi, my name is Aisyah Nurrachmawati,{' '}
-              <span className='font-bold'>a student from SMKN 21 JAKARTA</span>{' '}
-              and <span className='font-bold'>from class Phase F PPLG</span>.
-              I'm born in Jakarta and I'm the first child of three siblings. I
-              have one younger sister and one younger brother. My hobbies are
-              watching movies or dramas, listening music, and being a fan of
-              some K-pop groups.
-            </p>
+            <p className="text-lg leading-7 mb-4 text-neutral-600">
+  Hi, my name is Aisyah Nurrachmawati,{' '}
+  <span className='font-bold'>a student from SMKN 21 JAKARTA</span>{' '}
+  and <span className='font-bold'>from class Phase F PPLG</span>.
+  I&apos;m born in Jakarta and I&apos;m the first child of three siblings. I
+  have one younger sister and one younger brother. My hobbies are
+  watching movies or dramas, listening to music, and being a fan of
+  some K-pop groups.
+</p>
           </div>
         </div>
       </div>
